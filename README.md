@@ -14,7 +14,7 @@ You can check and use the API from here :
 #### Fetch News from all newspapers : 
 
 
-  `GET /api/news`
+  GET /api/news
 
 
 | Parameter | Type     | Description                |
@@ -24,7 +24,7 @@ You can check and use the API from here :
 #### Get news from a particular newspaper
 
 
-  `GET /api/news/${newspaperId}`
+  GET /api/news/${newspaperId}
 
 
 | Parameter | Type     | Description                       |
